@@ -1,5 +1,4 @@
 import React from 'react';
-import balancear from'./balance'
 import './app.css';
 
 function App() {
